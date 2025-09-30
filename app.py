@@ -14,7 +14,7 @@ st.set_page_config(
 # --- MODEL AND IMAGE CONSTANTS ---
 IMAGE_SIZE = (224, 224)
 # **IMPORTANT**: Paste the direct download link to your .keras file from GitHub Releases
-MODEL_URL = "sha256:3505a701f4f3dc570b40bd3b2b49be6f7300b5e216ca8fc5b3e350e54818333a" 
+MODEL_URL = "https://github.com/4mo4cyb3r5l4y3r2/medical-image-classifier-pneumonia-/releases/download/v1.0/best_pneumonia_finetuned.keras" 
 MODEL_FILENAME = "best_pneumonia_finetuned.keras"
 
 # --- LOAD THE TRAINED MODEL ---
