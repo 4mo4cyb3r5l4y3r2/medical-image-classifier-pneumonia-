@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Large dataset folder
+pneumonia_dataset_kaggle/
+
+# Trained model files
+*.keras
+
+# Python cache files
+__pycache__/
